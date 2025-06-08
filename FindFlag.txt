@@ -1,1 +1,68 @@
+[C++] FFlagDebugAvatarChatVisualization
+[C++] FFlagDebugRefactorInExpGameSettings
+[C++] FFlagDebugCodegenOptSize
 
+[C++] FFlagAnimationCurveDenseCacheEnabled5
+[C++] FFlagAnimationTrackPlayProcessessLoopedAndPriority2
+[C++] FFlagRemapR6Animation4
+
+[C++] FFlagEnableDynamicTranslation2
+
+[C++] FStringDebugLuaLogLevel
+[C++] FStringDebugLuaLogPattern
+[Lua] FFlagLuaMenuPerfImprovements
+[C++] FFlagLuaAppEnableFoundationColors7
+[Lua] FFlagEnableInGameMenuDurationLogger
+[C++] FFlagGlobalSettingsEngineModule3
+
+[C++] FFlagRenderDynamicResolutionScale12
+[C++] FFlagRenderUnifiedLighting12
+[C++] FFlagRenderCBRefactor2
+[C++] DFIntRenderFixedTargetResolutionMargin2
+[C++] DFFlagRenderLanczosUpsamplingNonRinging2
+[C++] DFFlagRenderSmootherStepUpsampling2
+
+[C++] FFlagNextGenReplicatorEnabledRead3
+[C++] FFlagNextGenReplicatorEnabledWrite4
+[C++] FFlagLargeReplicatorEnabled6
+[C++] FFlagLargeReplicatorRead5
+[C++] FFlagLargeReplicatorWrite5
+[C++] FFlagLargeReplicatorSerializeWrite2
+[C++] FFlagLargeReplicatorSerializeRead2
+
+[C++] FFlagOptimizeCFrameUpdates4
+[C++] FFlagOptimizeCFrameUpdatesIC3
+[C++] DFFlagGraphicsOptimizationModeMVPExposureEnrollment4
+[C++] DFFlagSimOptimizeGeometryChangedAssemblies3
+
+[C++] FFlagSimDcdRefactorDelta3
+[C++] FFlagSimDcdEnableDelta2
+
+[C++] FFlagTextureUseACR5
+[C++] FFlagTexturePackUseACR4
+
+[C++] FFlagFasterPreciseTime4
+[C++] DFIntMaxAverageFrameDelayExceedFactor
+[C++] FFlagTaskSchedulerLimitTargetFpsTo2402
+
+[C++] DFFlagMergeFakeInputEvents3
+[C++] FIntMouseCommandLifetime
+
+[C++] DFIntPhysicsAnalyticsHighFrequencyIntervalSec
+
+[C++] FStringWhitelistVerifiedUserId
+
+[C++] FFlagIxpFastFlagIntegrationUpdateFlagbankAndCache2
+
+[C++] FFlagRuntimeEnabled8
+
+[C++] FFlagUpdateAsyncLightGrid10
+
+[C++] DFIntRCCNetLatency
+[C++] DFFlagRccLoadSoundLengthOnly2
+[C++] DFIntRccLoadSoundLengthOnlyHundredthPercent2
+[C++] FFlagAddSoundReloadCount5
+
+[UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease1
+[UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease3
+[UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease4
