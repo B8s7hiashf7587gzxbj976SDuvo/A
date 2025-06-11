@@ -174,4 +174,8 @@ FFlagEnableDeviceMemoryPercentageForHarmony
 FFlagMemoryAdvicePerformanceOptimization
 FFlagUADFDisableImportLoD
 FFlagUseFixedMemoryStatsOrbis
+
 DFFlagCLI50798
+DFFlagUseNewSerializerAPI2
+DFFlagUseNewSerializerBinaryAPI
+FFlagFixDeserializeDecodeInstances
