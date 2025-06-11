@@ -174,3 +174,4 @@ FFlagEnableDeviceMemoryPercentageForHarmony
 FFlagMemoryAdvicePerformanceOptimization
 FFlagUADFDisableImportLoD
 FFlagUseFixedMemoryStatsOrbis
+DFFlagCLI50798
