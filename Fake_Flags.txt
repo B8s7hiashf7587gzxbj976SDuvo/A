@@ -179,3 +179,6 @@ DFFlagCLI50798
 DFFlagUseNewSerializerAPI2
 DFFlagUseNewSerializerBinaryAPI
 FFlagFixDeserializeDecodeInstances
+
+FFlagOptimizeCFrameUpdatesIC3
+FFlagRenderUnifiedLighting12
