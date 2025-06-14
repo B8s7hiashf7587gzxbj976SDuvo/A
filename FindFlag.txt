@@ -50,18 +50,18 @@ FIntMouseCommandLifetime
 
 DFIntPhysicsAnalyticsHighFrequencyIntervalSec
 
-[C++] FStringWhitelistVerifiedUserId
+FStringWhitelistVerifiedUserId
 
-[C++] FFlagIxpFastFlagIntegrationUpdateFlagbankAndCache2
+FFlagIxpFastFlagIntegrationUpdateFlagbankAndCache2
 
-[C++] FFlagRuntimeEnabled8
+FFlagRuntimeEnabled8
 
-[C++] FFlagUpdateAsyncLightGrid10
+FFlagUpdateAsyncLightGrid10
 
-[C++] DFIntRCCNetLatency
-[C++] DFFlagRccLoadSoundLengthOnly2
-[C++] DFIntRccLoadSoundLengthOnlyHundredthPercent2
-[C++] FFlagAddSoundReloadCount5
+DFIntRCCNetLatency
+DFFlagRccLoadSoundLengthOnly2
+DFIntRccLoadSoundLengthOnlyHundredthPercent2
+FFlagAddSoundReloadCount5
 
 [UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease1
 [UserFlag] FFlagUsernameSuggestionExperimentEnabledRelease3
