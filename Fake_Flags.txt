@@ -186,3 +186,4 @@ DFIntTreeDiffWorldCFrameEpsilonMultiplier
 DFFlagCFrameFromRotationBetweenVectors
 
 FFlagCoreGlobalSettingsFinal
+FFlagScopedFlagOverriderAllowUnknownForLua
