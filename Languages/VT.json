@@ -78,20 +78,19 @@
         "studio_fflags_description": "Quản lý cài đặt hiển thị Studio FFlags của bạn.",
         "choose_language_filter": "Chọn bộ lọc ngôn ngữ...",
         "credits_title": "Tín Dụng",
-        "credits_description": "# <a:trophy:1303749742035079260> Đặc biệt cảm ơn những người đóng góp sau:\n"
-        "<a:Developer:1302603413263220756> **<@1286961047990702124>** — *Chủ Sở Hữu & Nhà Phát Triển*\n"
-        "<a:Developer:1302603413263220756> **<@1272494435690610800>** — *Nhà Phát Triển*\n"
-        "<a:Thanks:1382043065132253194> **<@1020107535589593138>** — *Vận hành & Quảng bá bot*\n"
-        "<a:Promote:1345700985418420285> **<@931627573656559656>** — *Quảng bá*\n"
-        "<a:Promote:1345700985418420285> **<@771891722539761686>** — *Ý tưởng kiểu Ini*\n"
-        "<:Appleblox:1346452638954160200> **<@657938099581616139>** — *Ý tưởng định dạng AppleBlox JSON*\n"
-        "<:Kliko:1382049747136675840> **<@523431947750473759>** — *Ý tưởng FindFlag chia theo từ khóa*\n"
-        "<:Kliko:1382049747136675840> **<@873383972372119574>** — *Ý tưởng Value finder*\n"
-        "<:TrackerFFASDF:1382050066180735036> **[MaximumADHD](https://github.com/MaximumADHD)** — *Đặc biệt cảm ơn tác giả FastFlag trackers*\n"
-        "\n"
-        "## **Nhóm dịch tiếng Việt:**\n"
-        "<:vietnam:1340350383167508520> **<@986939452129706004>**\n"
-        "<:vietnam:1340350383167508520> **<@567898278104924171>**\n"
+        "credits_description": "# <a:trophy:1303749742035079260> Đặc biệt cảm ơn những người đóng góp sau:\n",
+        "<a:Developer:1302603413263220756> **<@1286961047990702124>** — *Chủ Sở Hữu & Nhà Phát Triển*\n",
+        "<a:Developer:1302603413263220756> **<@1272494435690610800>** — *Nhà Phát Triển*\n",
+        "<a:Thanks:1382043065132253194> **<@1020107535589593138>** — *Vận hành & Quảng bá bot*\n",
+        "<a:Promote:1345700985418420285> **<@931627573656559656>** — *Quảng bá*\n",
+        "<a:Promote:1345700985418420285> **<@771891722539761686>** — *Ý tưởng kiểu Ini*\n",
+        "<:Appleblox:1346452638954160200> **<@657938099581616139>** — *Ý tưởng định dạng AppleBlox JSON*\n",
+        "<:Kliko:1382049747136675840> **<@523431947750473759>** — *Ý tưởng FindFlag chia theo từ khóa*\n",
+        "<:Kliko:1382049747136675840> **<@873383972372119574>** — *Ý tưởng Value finder*\n",
+        "<:TrackerFFASDF:1382050066180735036> **[MaximumADHD](https://github.com/MaximumADHD)** — *Đặc biệt cảm ơn tác giả FastFlag trackers*\n",
+        "## **Nhóm dịch tiếng Việt:**\n",
+        "<:vietnam:1340350383167508520> **<@986939452129706004>**\n",
+        "<:vietnam:1340350383167508520> **<@567898278104924171>**\n",
         "<:vietnam:1340350383167508520> **<@432174629419745290>**"
     }
 }
