@@ -184,3 +184,5 @@ FFlagOptimizeCFrameUpdatesIC3
 FFlagRenderUnifiedLighting12
 DFIntTreeDiffWorldCFrameEpsilonMultiplier
 DFFlagCFrameFromRotationBetweenVectors
+
+FFlagCoreGlobalSettingsFinal
