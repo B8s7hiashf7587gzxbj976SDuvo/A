@@ -41,7 +41,6 @@
         "desc_DFLog": "DFLog Bật hoặc tắt các tính năng ghi nhật ký một cách động.",
         "desc_FString": "FString Lưu trữ một chuỗi ký tự trong biến một cách tĩnh.",
         "desc_DFString": "DFString Lưu trữ một chuỗi ký tự trong biến một cách động.",
-        "invalid_flags": "SFFlag Một biến cờ đồng bộ được tải bởi máy chủ và gửi đến máy khách, đảm bảo trạng thái cờ nhất quán trên các máy khách khác nhau.",
         "valid_flags": "SFFlag Một biến cờ đồng bộ được tải bởi máy chủ và gửi đến máy khách, đảm bảo trạng thái cờ nhất quán trên các máy khách khác nhau.",
         "invalid_flags": "## <:unverified:1377717978732167218> Một số Fast-Flag không hợp lệ.",
         "valid_flags": "## <:verified:1377717704735326429> Cờ nhanh hợp lệ.",
