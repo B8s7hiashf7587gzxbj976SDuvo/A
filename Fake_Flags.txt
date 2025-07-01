@@ -195,3 +195,6 @@ FFlagLargeReplicatorSerializeRead2
 FFlagLargeReplicatorEnabled6
 FFlagAnimationCurveDenseCacheEnabled5
 FFlagLuaAppEnableFoundationColors7
+
+DFFlagSessionTaskAnalyticsEnabled
+DFFlagAnalyticsServiceEnabled
