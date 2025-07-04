@@ -18,7 +18,6 @@
     "FFlagNextGenReplicatorEnabledRead3": "false",
     "FFlagOptimizeCFrameUpdatesIC3": "false",
     "FFlagOptimizeCFrameUpdates4": "false",
-    "FFlagSimDcdRefactorDelta3": "false",
     "FFlagSimDcdEnableDelta2": "false",
     "FFlagNextGenReplicatorEnabledWrite4": "false",
     "FFlagAnimationCurveDenseCacheEnabled5": "false",
