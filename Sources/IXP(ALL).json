@@ -1,0 +1,23 @@
+{
+    "FFlagUnreduxChatTransparencyV2_IXPValue": "true;1;ExperienceChat.Performance;FFlagUnreduxChatTransparencyV2-Fixed;1952442096;flagbank",
+    "FFlagChatWindowOnlyRenderMessagesOnce_IXPValue": "true;1;ExperienceChat.Performance;ChatWindowOnlyRenderMessagesOnce-2;530774716;flagbank",
+    "FFlagUnreduxLastInputTypeChanged_IXPValue": "true;1;ExperienceChat.Performance;FFlagUnreduxLastInputTypeChangedV3;510908202;flagbank",
+    "FFlagChatWindowSemiRoduxMessages_IXPValue": "true;1;ExperienceChat.Performance;FFlagChatWindowSemiRoduxMessages;77621948;flagbank",
+    "FFlagInitializeAutocompleteOnlyIfEnabled_IXPValue": "true;1;ExperienceChat.Performance;FFlagInitializeAutocompleteOnlyIfEnabled;1049260247;flagbank",
+    "FFlagChatWindowMessageRemoveState_IXPValue": "true;1;ExperienceChat.Performance;FFlagChatWindowMessageRemoveState;1376708965;flagbank",
+    "DFIntWebRtcOpusComplexity_IXPValue": "0;1;Portal.RTC_WebRtcOpusComplexityV2-1748881496;RTC_WebRtcOpusComplexityV2;1936056086;flagbank",
+    "DFFlagWebRtcOpusComplexityEnabled_IXPValue": "true;1;Portal.RTC_WebRtcOpusComplexityV2-1748881496;RTC_WebRtcOpusComplexityV2;1936056086;flagbank",
+    "FFlagChatOptimizeCommandProcessing_IXPValue": "true;1;ChatWindow.Performance;FFlagChatOptimizeCommandProcessing;288906352;flagbank",
+    "FFlagAXRootSlotBasedEditorFlag_IXPValue": "false;1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
+    "FFlagAXCustomizeOverhaulCatalogExposure2_IXPValue": "true;1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
+    "FFlagAXCustomizeOverhaulEditorExposure2_IXPValue": "true;1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
+    "FFlagMoveReducerCreationOutOfReducer_IXPValue": "true;1;Portal.FFlagMoveReducerCreationOutOfReducer;FFlagMoveReducerCreationOutOfReducer;94348796;flagbank",
+    "FFlagFilterPurchasePromptInputDispatch_IXPValue": "true;1;InExperience.Performance;InExperience.Performance.PurchasePrompt;532319696;flagbank",
+    "FFlagRemovePermissionsButtons_IXPValue": "true;1;InExperience.Performance;InExperience.Performance.PermissionsButtons.2;1743048710;flagbank",
+    "FFlagAppChatBetterListPerformance_IXPValue": "true;1;Party.Chat.Performance;FFlagAppChatBetterListPerformance;1798551402;dev_controlled",
+    "FFlagAppChatRemoveUserProfileTitles2_IXPValue": "true;1;Party.Chat.Performance;FFlagAppChatRemoveUserProfileTitles2;568652191;dev_controlled",
+    "FFlagSeeMoreCurrentlyWearingCompact_IXPValue": "false;1;Social.ProfilePeekView;Social.ProfilePeekView.DynamicSizingCurrentlyWearing;1172960240;dev_controlled",
+    "FFlagSeeMoreCurrentlyWearingWide_IXPValue": "false;1;Social.ProfilePeekView;Social.ProfilePeekView.DynamicSizingCurrentlyWearing;1172960240;dev_controlled",
+    "FFlagEnableProfilePlatformDualCta_v5_IXPValue": "true;1;Social.SelfProfileView.Flags;Social.SelfProfileView.Flags.EnableProfilePlatformDualCta-1;1362395156;flagbank",
+    "FFlagAddPriceBelowCurrentlyWearing_IXPValue": "true;1;Social.Profile.Inventory;Social.Profile.Inventory.ProfilePlatformAddPriceBelowCurrentlyWearing;650888593;flagbank"
+}
