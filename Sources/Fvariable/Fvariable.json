@@ -7790,7 +7790,7 @@
     "DFIntShowRewardedVideoAdResultEventThrottleHundrethsPercent": 10000,
     "DFIntImmersiveAdVideoUnmuteEventThrottleHundredthsPercent": 0,
     "DFIntImmersiveAdVideoMuteEventThrottleHundredthsPercent": 0,
-    "FFlagRuntimeEnabled10": false,
+    "FFlagRuntimeEnabled8": true,
     "DFIntImmersiveAdVideoUnsupportedEventThrottleHundredthsPercent": 0,
     "DFIntImmersiveAdVideoParseErrorEventThrottleHundredthsPercent": 0,
     "FFlagIncreaseMaxEditableImageSize2": true,
