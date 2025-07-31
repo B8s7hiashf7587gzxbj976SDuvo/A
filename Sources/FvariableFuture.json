@@ -1,8 +1,2 @@
 {
-    "FFlagGrantExpPermOnPackageCreation2": true,
-    "FFlagAvatarAutosetupStatusNotifications2": true,
-    "FFlagStudioMaxInstanceCountCheckOnStartup2": true,
-    "FFlagScriptEditorLazyTelemetryReporterEnabled2": true,
-    "FFlagStudioFriendToConnection2": true,
-    "FFlagStudioPublishMediatorContext2": false
 }
