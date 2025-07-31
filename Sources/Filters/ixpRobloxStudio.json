@@ -1,0 +1,18 @@
+{
+    "FFlagUnreduxChatTransparencyV2_IXPValue": "true;1;ExperienceChat.Performance;FFlagUnreduxChatTransparencyV2-Fixed;1952442096;flagbank",
+    "FFlagChatWindowOnlyRenderMessagesOnce_IXPValue": "true;1;ExperienceChat.Performance;ChatWindowOnlyRenderMessagesOnce-2;530774716;flagbank",
+    "FFlagUnreduxLastInputTypeChanged_IXPValue": "true;1;ExperienceChat.Performance;FFlagUnreduxLastInputTypeChangedV3;510908202;flagbank",
+    "FFlagChatWindowSemiRoduxMessages_IXPValue": "true;1;ExperienceChat.Performance;FFlagChatWindowSemiRoduxMessages;77621948;flagbank",
+    "FFlagInitializeAutocompleteOnlyIfEnabled_IXPValue": "true;1;ExperienceChat.Performance;FFlagInitializeAutocompleteOnlyIfEnabled;1049260247;flagbank",
+    "FFlagChatWindowMessageRemoveState_IXPValue": "true;1;ExperienceChat.Performance;FFlagChatWindowMessageRemoveState;1376708965;flagbank",
+    "FFlagMemoizeChatReportingMenu_IXPValue": "true;1;ChatWindow.Performance;FFlagMemoizeChatReportingMenu;1915032136;flagbank",
+    "FFlagMemoizeChatInputApp_IXPValue": "true;1;ChatWindow.Performance;FFlagMemoizeChatInputApp;1529984850;flagbank",
+    "FFlagFilterPurchasePromptInputDispatch_IXPValue": "true;1;InExperience.Performance;InExperience.Performance.PurchasePrompt;532319696;flagbank",
+    "FFlagPlayerListReduceRerenders_IXPValue": "false;1;InExperience.Performance;Experience.PlayerList.DevTools5;673415276;flagbank",
+    "FFlagRemovePermissionsButtons_IXPValue": "true;1;InExperience.Performance;InExperience.Performance.PermissionsButtons.2;1743048710;flagbank",
+    "FFlagPlayerListClosedNoRenderWithTenFoot_IXPValue": "true;1;InExperience.Performance;Experience.PlayerList.DevTools5;673415276;flagbank",
+    "FFlagAppChatRemoveUserProfileTitles2_IXPValue": "true;1;Party.Chat.Performance;FFlagAppChatRemoveUserProfileTitles2;568652191;dev_controlled",
+    "FFlagMoveReducerCreationOutOfReducer_IXPValue": "true;1;Portal.FFlagMoveReducerCreationOutOfReducer;FFlagMoveReducerCreationOutOfReducer;94348796;flagbank",
+    "FFlagRIDE11263EnableFeature_IXPValue": "false;1;Portal.Studio.PerformanceAndOptimization.SceneBudgetThermometerRollout-1747264255;Studio.PerformanceAndOptimization.SceneBudgetThermometerRollout;1917418302;flagbank",
+    "FFlagMacUnifyKeyCodeMapping_IXPValue": "true;1;Portal.MacUnifyKeyCodeMapping-1752599684;MacUnifyKeyCodeMapping;965638851;flagbank"
+}
