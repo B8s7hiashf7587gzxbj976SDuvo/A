@@ -8008,7 +8008,7 @@
     "FStringExplorerFilterHelpUrl": "https://create.roblox.com/docs/studio/explorer#filtering-instances",
     "DFIntImmersiveAdVideoUnmuteEventThrottleHundredthsPercent": 0,
     "DFIntImmersiveAdVideoMuteEventThrottleHundredthsPercent": 0,
-    "FFlagRuntimeEnabled8": true,
+    "FFlagRuntimeEnabled10": false,
     "DFIntImmersiveAdVideoUnsupportedEventThrottleHundredthsPercent": 0,
     "DFIntImmersiveAdVideoParseErrorEventThrottleHundredthsPercent": 0,
     "DFIntImmersiveAdVideoGenericErrorEventThrottleHundredthsPercent": 0,
