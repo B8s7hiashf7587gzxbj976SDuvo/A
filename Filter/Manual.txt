@@ -189,3 +189,4 @@ FFlagAnimationCurveDenseCacheEnabled5
 FFlagLuaAppEnableFoundationColors7
 DFFlagSessionTaskAnalyticsEnabled
 DFFlagAnalyticsServiceEnabled
+FFlagFasterPreciseTime4
